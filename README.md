@@ -1,6 +1,6 @@
 # PWPB-Website.github.io
 
-[Website Kelompok 8](https://idadanuartha.github.io/PWPB-Website.github.io/landing-page.html)
+[Website Kelompok 8](https://wisnu09.github.io/PWPB-Project/landing-page.html)
 
 
 # ANGGOTA KELOMPOK 8
