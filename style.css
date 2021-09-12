@@ -525,8 +525,8 @@ table tr td img {
 }
 
 .container-materi .my-profile p a:hover {
-  color: rgb(91, 91, 250);
-  border-bottom: 1px solid rgb(91, 91, 250);
+  color: #77ACF1;
+  border-bottom: 1px solid #77ACF1;
 }
 
 .container-materi h1 {
@@ -552,17 +552,25 @@ table tr td img {
 }
 .container-materi .tambahan a {
   text-decoration: none;
-  color: rgb(31, 240, 153);
+  color: #39A2DB;
   padding-bottom: 5px;
 }
 
 .container-materi .tambahan a li:hover {
-  color: rgb(158, 255, 215);
+  color: #171010;
 }
 
 /* akhir style untuk semua materi learning */
 
 /* style untuk  materi sumber belajar */
+.sumber-belajar a {
+  text-decoration: none;
+  color: #39A2DB;
+}
+
+.sumber-belajar a:hover {
+  color: #171010;
+}
 
 /* akhir style untuk materi sumber belajar */
 
