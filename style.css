@@ -13,6 +13,20 @@ html {
   scroll-behavior: smooth;
 }
 
+/* effect scrolling */
+.effect {
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: all 2s ease;
+}
+
+.effect.active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+
 body {
   margin-top: 40px;
   background-color: #F4F9F9;
