@@ -399,6 +399,7 @@ a .card .konten .sub-judul {
 .menu-contact table tr td input  {
   border-radius: 0.6rem;
   border: none;
+  background-color: white;
   padding-left: 10px;
   color: #4A503D;
 }
